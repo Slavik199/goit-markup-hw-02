@@ -125,6 +125,10 @@ text-align: center;
 text-transform: capitalize;
 }
 
+.tim-list {
+    background-color: #ffffff;
+}
+
 .tim-subtitle {
     font-weight: 500;
 font-size: 20px;
