@@ -137,6 +137,10 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+.tim-item {
+    background-color: #ffffff;
+}
+
 .tim-text {
     font-weight: 400;
 font-size: 16px;
