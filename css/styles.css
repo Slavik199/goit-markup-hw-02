@@ -111,12 +111,18 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
+.tim-sectiom {
+background-color: #f4f4fd;
+}
+
 .tim-title {
     font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
+text-align: center;
+text-transform: capitalize;
 }
 
 .tim-subtitle {
