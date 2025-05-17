@@ -61,10 +61,13 @@ color: #434455;
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus,
+.contacts-link:focus {
+    color: #404bbf;
+}
+
 .hero-batton:hover,
 .hero-batton:focus {
-    color: #404bbf;
+background-color: #404bbf;
 }
 
 .hero-section {
@@ -135,9 +138,10 @@ color: #434455;
 .portfolio-title {
     font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
+text-align: center;
 }
 
 .portfolio-subtitle {
